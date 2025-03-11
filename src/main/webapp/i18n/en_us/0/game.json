@@ -1,0 +1,76 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value"
+  },
+  "title": "Merry Little Cash-mas",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "0Error: ",
+    "genericErrorText": "0There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "0BALANCE",
+    "footer_ticketCost": "0TICKET COST",
+    "ticketSelect_ticketCost": "0TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "0TRY "
+    },
+    "footer_win": {
+      "BUY": "0WIN",
+      "TRY": "0DEMO WIN"
+    },
+
+    "button_buy": {
+      "BUY": "0BUY",
+      "TRY": "0TRY"
+    },
+    "button_try": "0TRY",
+    "button_continue": "0CONTINUE",
+    "button_moveToMoney": "0MOVE TO MONEY",
+    "button_autoPlay": "0REVEAL ALL",
+    "button_stop": "0STOP",
+    "button_playAgain": {
+      "BUY": "0PLAY AGAIN",
+      "TRY": "0TRY AGAIN"
+    },
+    "button_tryAgain": "0TRY AGAIN",
+    "button_ok": "0OK",
+    "button_exit": "0EXIT",
+
+    "error_button_exit": "0EXIT",
+    "error_title": "0ERROR",
+
+    "message_nonWin": "0BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "0CONGRATULATIONS!\nYOU HAVE WON",
+      "TRY": "0THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+    },
+
+    "howToPlay": "0HOW TO PLAY",
+    "page1": "0Press each Ornament in the LUCKY NUMBERS panel to reveal a number.\n\nPress each Present in YOUR NUMBERS panel to reveal a number.\n\nMatch any LUCKY NUMBER to any identical YOUR NUMBER to win the corresponding prize.\n\nReveal a Stocking symbol to instantly win the corresponding prize.",
+
+    "winUpTo": "0WIN UP TO {0}!",
+
+    "yourNumbers": "0YOUR NUMBERS",
+    "luckyNumbers": "0LUCKY NUMBERS"
+  }
+}

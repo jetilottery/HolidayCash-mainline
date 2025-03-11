@@ -1,0 +1,22 @@
+{
+  "urls": [
+    "ch3.mp3",
+    "ch3.ogg",
+    "ch3.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BetMax": [
+      1050,
+      1136.0544217687075
+    ],
+    "WinningNumberSelect": [
+      3100,
+      892.9024943310657
+    ]
+  }
+}
